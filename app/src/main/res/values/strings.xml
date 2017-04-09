@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ACD_AN2_Session_2_Assignment_3_Main</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
